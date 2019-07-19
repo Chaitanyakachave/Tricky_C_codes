@@ -14,3 +14,4 @@ Following C Codes are available in Repository:
       7] Deleting Duplicate numbers in array
       8] Angstrom numbers between 1 to 500
       9] Arranging array number in ascending order
+     10] Checking given string is palindrome or not without using built-in function.
