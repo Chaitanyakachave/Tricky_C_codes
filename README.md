@@ -15,3 +15,4 @@ Following C Codes are available in Repository:
       8] Angstrom numbers between 1 to 500
       9] Arranging array number in ascending order
      10] Checking given string is palindrome or not without using built-in function.
+     11] Arranging characters in string in alphabetical order.
