@@ -17,3 +17,4 @@ Following C Codes are available in Repository:
      10] Checking given string is palindrome or not without using built-in function.
      11] Arranging characters in string in alphabetical order.
      12] Checking number is even or odd using macro declaration. 
+     13] Finding overalpping area of two rectangle in first quadrant.
