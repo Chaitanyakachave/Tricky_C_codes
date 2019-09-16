@@ -18,3 +18,4 @@ Following C Codes are available in Repository:
      11] Arranging characters in string in alphabetical order.
      12] Checking number is even or odd using macro declaration. 
      13] Finding overalpping area of two rectangle in first quadrant.
+     14] Finding 2nd greatest and 2nd smallest numbers in array.
