@@ -20,3 +20,4 @@ Following C Codes are available in Repository:
      13] Finding overalpping area of two rectangle in first quadrant.
      14] Finding 2nd greatest and 2nd smallest numbers in array.
      15] Binary to decimal coversion without math.h library.
+     16] Checking number is even or odd and printing it without using semicolon,loop,conditional statement.
