@@ -21,3 +21,4 @@ Following C Codes are available in Repository:
      14] Finding 2nd greatest and 2nd smallest numbers in array.
      15] Binary to decimal coversion without math.h library.
      16] Checking number is even or odd and printing it without using semicolon,loop,conditional statement.
+     17] Decimal to binary using stack.
