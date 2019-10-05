@@ -22,3 +22,4 @@ Following C Codes are available in Repository:
      15] Binary to decimal coversion without math.h library.
      16] Checking number is even or odd and printing it without using semicolon,loop,conditional statement.
      17] Decimal to binary using stack.
+     18] Increasing each alphabet in string by n.
